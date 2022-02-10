@@ -1,6 +1,7 @@
 h1 {
   background-color: rebeccapurple !important;
-  color: hotpink !important;
+  color: hotpink;
   text-align: center;
   text-transform: uppercase;
+  margin: 0;
 }
